@@ -1,0 +1,10 @@
+CREATE_DIR /docs
+CREATE /docs/a 10
+CREATE /docs/b 12
+CREATE /docs/c 8
+CREATE /docs/d 10
+CREATE /docs/f 8
+DELETE /docs/b
+DELETE /docs/d
+CREATE /docs/e 20
+STATUS
